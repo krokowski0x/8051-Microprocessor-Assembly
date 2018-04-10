@@ -9,6 +9,8 @@ Well, it sucks, but instead of x86 or ARM processors, at my university we use ou
 
 ## Table of contents
 
-* Memory allocation and basic ALU math operations ✖️➕➖➗
-* Delays and LED blinking 🕜🌟
+* Memory allocation and basic ALU math operations ✖️➕➗
+* Delays and LED blinking 💡💡💡
 * Generating PWM signal and making buzzer produce some actual sound 🎵🎵🎵
+* Displaying ASCII characters on 16x2 LCD with a help of XRAM Memory 📟📟📟
+* Mapping alphanumeric keypad to readable characters on LCD ⌨️⌨️⌨️
