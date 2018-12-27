@@ -1,10 +1,10 @@
-# Intel 8051 Microprocessor Assembler
+# Intel 8051 Microprocessor Assemby
 
 Low-level, Intel 8051 Assembler Programs made for an university course in early 2018.
 
 ## Brief description
 
-Well, it sucks, but instead of x86 or ARM processors, at my university we use outdated and **only-one-in-its-amazing-class Intel 8051**.
+Instead of x86 or ARM processors, at my university we use outdated and, apparently, only one in its class **Intel 8051**.
 [Here you can get instruction set](http://www.zsk.ict.pwr.wroc.pl/zsk/repository/dydaktyka/ptm/lab/8051instrset.pdf) but I doubt anyone would like to do that.
 
 ## Table of contents
